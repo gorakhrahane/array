@@ -14,11 +14,14 @@ public class ArrayListSpliterator
 		list.add("mno@gmail.com");
 		list.add("random@gmail.com");
 		list.add("gr@gmail.com");
+		list.add("am@gmail.com");
 		
 		 
  
 		System.out.print("List of Emails: ");
 		System.out.println(list);
-		 
+		
+		
+		
 }
 }
